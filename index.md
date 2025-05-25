@@ -111,7 +111,7 @@ end
 <dt>Birthplace</dt>
 <dd>Japan</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Blue</dd>
 </dl>
 
 ```
